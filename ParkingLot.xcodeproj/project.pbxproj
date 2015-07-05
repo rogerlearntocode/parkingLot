@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DBB215DE1B48EB0000CD11A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DBB215DD1B48EB0000CD11A0 /* main.m */; };
-		DBB215E61B48EB2A00CD11A0 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = DBB215E51B48EB2A00CD11A0 /* Student.m */; };
+		DBB215E61B48EB2A00CD11A0 /* UniversityStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		DBB215DA1B48EB0000CD11A0 /* ParkingLot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ParkingLot; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBB215DD1B48EB0000CD11A0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DBB215E41B48EB2A00CD11A0 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Student.h; path = ../Student.h; sourceTree = "<group>"; };
-		DBB215E51B48EB2A00CD11A0 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Student.m; path = ../Student.m; sourceTree = "<group>"; };
+		DBB215E41B48EB2A00CD11A0 /* UniversityStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UniversityStudent.h; path = ../UniversityStudent.h; sourceTree = "<group>"; };
+		DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UniversityStudent.m; path = ../UniversityStudent.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				DBB215DD1B48EB0000CD11A0 /* main.m */,
-				DBB215E41B48EB2A00CD11A0 /* Student.h */,
-				DBB215E51B48EB2A00CD11A0 /* Student.m */,
+				DBB215E41B48EB2A00CD11A0 /* UniversityStudent.h */,
+				DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */,
 			);
 			path = ParkingLot;
 			sourceTree = "<group>";
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBB215DE1B48EB0000CD11A0 /* main.m in Sources */,
-				DBB215E61B48EB2A00CD11A0 /* Student.m in Sources */,
+				DBB215E61B48EB2A00CD11A0 /* UniversityStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

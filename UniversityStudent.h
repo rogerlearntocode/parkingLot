@@ -9,15 +9,15 @@
 #import <Foundation/Foundation.h>
 #define kPARKING_CHARGES 10
 
-@interface Student : NSObject
+@interface UniversityStudent : NSObject
 
 @property NSString *firstName;//Pointer before variaobe name when accessing an object
 @property NSString *lastName;
-@property int grade;
+@property int score;
 @property BOOL isMoreThan30Kms;
 @property float parkingFee;
 //@property int parkingCharges; //Using a constant
 
--(float)calculateParkingFees:(BOOL)qualifiedByDistance;
+-(float)calculateParkingFeesByQualifiedDistant:(BOOL)qualifiedByDistance grade:(int)studentGrade;
 
 @end
