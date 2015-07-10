@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F976E4BA-9467-4459-ADFC-AF8C1F0C93C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Student_Class_Classification</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F45E681A6BB62F87FBA92018C9004E3BE2E410AA</key>
+		<string>github.com:rogerlearntocode/parkingLot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Student_Class_Classification.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F45E681A6BB62F87FBA92018C9004E3BE2E410AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rogerlearntocode/parkingLot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F45E681A6BB62F87FBA92018C9004E3BE2E410AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F45E681A6BB62F87FBA92018C9004E3BE2E410AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParkingLot</string>
+		</dict>
+	</array>
+</dict>
+</plist>

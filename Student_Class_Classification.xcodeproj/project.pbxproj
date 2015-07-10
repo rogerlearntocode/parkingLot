@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBB215DE1B48EB0000CD11A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DBB215DD1B48EB0000CD11A0 /* main.m */; };
-		DBB215E61B48EB2A00CD11A0 /* UniversityStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */; };
+		DB3E81101B4CF7E100401392 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DB3E810F1B4CF7E100401392 /* main.m */; };
+		DB3E811B1B4CF88400401392 /* UniversityStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = DB3E811A1B4CF88400401392 /* UniversityStudent.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		DBB215D81B48EB0000CD11A0 /* CopyFiles */ = {
+		DB3E810A1B4CF7E100401392 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -24,14 +24,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DBB215DA1B48EB0000CD11A0 /* ParkingLot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ParkingLot; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBB215DD1B48EB0000CD11A0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DBB215E41B48EB2A00CD11A0 /* UniversityStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UniversityStudent.h; path = ../UniversityStudent.h; sourceTree = "<group>"; };
-		DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UniversityStudent.m; path = ../UniversityStudent.m; sourceTree = "<group>"; };
+		DB3E810C1B4CF7E100401392 /* Student_Class_Classification */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Student_Class_Classification; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB3E810F1B4CF7E100401392 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DB3E81191B4CF88400401392 /* UniversityStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UniversityStudent.h; sourceTree = "<group>"; };
+		DB3E811A1B4CF88400401392 /* UniversityStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UniversityStudent.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DBB215D71B48EB0000CD11A0 /* Frameworks */ = {
+		DB3E81091B4CF7E100401392 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,97 +41,97 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DBB215D11B48EAFF00CD11A0 = {
+		DB3E81031B4CF7E100401392 = {
 			isa = PBXGroup;
 			children = (
-				DBB215DC1B48EB0000CD11A0 /* ParkingLot */,
-				DBB215DB1B48EB0000CD11A0 /* Products */,
+				DB3E810E1B4CF7E100401392 /* Student_Class_Classification */,
+				DB3E810D1B4CF7E100401392 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DBB215DB1B48EB0000CD11A0 /* Products */ = {
+		DB3E810D1B4CF7E100401392 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DBB215DA1B48EB0000CD11A0 /* ParkingLot */,
+				DB3E810C1B4CF7E100401392 /* Student_Class_Classification */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DBB215DC1B48EB0000CD11A0 /* ParkingLot */ = {
+		DB3E810E1B4CF7E100401392 /* Student_Class_Classification */ = {
 			isa = PBXGroup;
 			children = (
-				DBB215DD1B48EB0000CD11A0 /* main.m */,
-				DBB215E41B48EB2A00CD11A0 /* UniversityStudent.h */,
-				DBB215E51B48EB2A00CD11A0 /* UniversityStudent.m */,
+				DB3E810F1B4CF7E100401392 /* main.m */,
+				DB3E81191B4CF88400401392 /* UniversityStudent.h */,
+				DB3E811A1B4CF88400401392 /* UniversityStudent.m */,
 			);
-			path = ParkingLot;
+			path = Student_Class_Classification;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DBB215D91B48EB0000CD11A0 /* ParkingLot */ = {
+		DB3E810B1B4CF7E100401392 /* Student_Class_Classification */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBB215E11B48EB0000CD11A0 /* Build configuration list for PBXNativeTarget "ParkingLot" */;
+			buildConfigurationList = DB3E81131B4CF7E100401392 /* Build configuration list for PBXNativeTarget "Student_Class_Classification" */;
 			buildPhases = (
-				DBB215D61B48EB0000CD11A0 /* Sources */,
-				DBB215D71B48EB0000CD11A0 /* Frameworks */,
-				DBB215D81B48EB0000CD11A0 /* CopyFiles */,
+				DB3E81081B4CF7E100401392 /* Sources */,
+				DB3E81091B4CF7E100401392 /* Frameworks */,
+				DB3E810A1B4CF7E100401392 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ParkingLot;
-			productName = ParkingLot;
-			productReference = DBB215DA1B48EB0000CD11A0 /* ParkingLot */;
+			name = Student_Class_Classification;
+			productName = Student_Class_Classification;
+			productReference = DB3E810C1B4CF7E100401392 /* Student_Class_Classification */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DBB215D21B48EAFF00CD11A0 /* Project object */ = {
+		DB3E81041B4CF7E100401392 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = iOSTraining;
 				TargetAttributes = {
-					DBB215D91B48EB0000CD11A0 = {
+					DB3E810B1B4CF7E100401392 = {
 						CreatedOnToolsVersion = 6.4;
 					};
 				};
 			};
-			buildConfigurationList = DBB215D51B48EAFF00CD11A0 /* Build configuration list for PBXProject "ParkingLot" */;
+			buildConfigurationList = DB3E81071B4CF7E100401392 /* Build configuration list for PBXProject "Student_Class_Classification" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = DBB215D11B48EAFF00CD11A0;
-			productRefGroup = DBB215DB1B48EB0000CD11A0 /* Products */;
+			mainGroup = DB3E81031B4CF7E100401392;
+			productRefGroup = DB3E810D1B4CF7E100401392 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DBB215D91B48EB0000CD11A0 /* ParkingLot */,
+				DB3E810B1B4CF7E100401392 /* Student_Class_Classification */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DBB215D61B48EB0000CD11A0 /* Sources */ = {
+		DB3E81081B4CF7E100401392 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBB215DE1B48EB0000CD11A0 /* main.m in Sources */,
-				DBB215E61B48EB2A00CD11A0 /* UniversityStudent.m in Sources */,
+				DB3E81101B4CF7E100401392 /* main.m in Sources */,
+				DB3E811B1B4CF88400401392 /* UniversityStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DBB215DF1B48EB0000CD11A0 /* Debug */ = {
+		DB3E81111B4CF7E100401392 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -173,7 +173,7 @@
 			};
 			name = Debug;
 		};
-		DBB215E01B48EB0000CD11A0 /* Release */ = {
+		DB3E81121B4CF7E100401392 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,14 +208,14 @@
 			};
 			name = Release;
 		};
-		DBB215E21B48EB0000CD11A0 /* Debug */ = {
+		DB3E81141B4CF7E100401392 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		DBB215E31B48EB0000CD11A0 /* Release */ = {
+		DB3E81151B4CF7E100401392 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -225,25 +225,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DBB215D51B48EAFF00CD11A0 /* Build configuration list for PBXProject "ParkingLot" */ = {
+		DB3E81071B4CF7E100401392 /* Build configuration list for PBXProject "Student_Class_Classification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DBB215DF1B48EB0000CD11A0 /* Debug */,
-				DBB215E01B48EB0000CD11A0 /* Release */,
+				DB3E81111B4CF7E100401392 /* Debug */,
+				DB3E81121B4CF7E100401392 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBB215E11B48EB0000CD11A0 /* Build configuration list for PBXNativeTarget "ParkingLot" */ = {
+		DB3E81131B4CF7E100401392 /* Build configuration list for PBXNativeTarget "Student_Class_Classification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DBB215E21B48EB0000CD11A0 /* Debug */,
-				DBB215E31B48EB0000CD11A0 /* Release */,
+				DB3E81141B4CF7E100401392 /* Debug */,
+				DB3E81151B4CF7E100401392 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DBB215D21B48EAFF00CD11A0 /* Project object */;
+	rootObject = DB3E81041B4CF7E100401392 /* Project object */;
 }
